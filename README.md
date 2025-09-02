@@ -8,7 +8,6 @@ pip3 install requests beautifulsoup4 dnspython python-whois
 wget -O nexusrecon.py https://raw.githubusercontent.com/your-repo/nexusrecon.py
 chmod +x nexusrecon.py
 
-=========================================
 Cara Penggunaan : 
 
 # Basic usage
